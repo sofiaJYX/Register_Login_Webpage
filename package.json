@@ -1,0 +1,25 @@
+{
+  "name": "register-login-webpage",
+  "version": "1.0.0",
+  "description": "This webpage is an implementation of a registration and login page for a web application. The page allows users to sign up for an account by providing their email and password. The code is written in PHP, HTML, and CSS and uses the Bootstrap library for styling. * *Date Created*: 12 22 2022 * *Last Modification Date*: 2 7 2023 * *URL*: <https://web.cs.dal.ca/~yuxinj/projects/Register_Login_Webpage/>",
+  "main": "index.php",
+  "scripts": {
+    "dev": "webpack-dev-server --mode development",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofiaJYX/Register_Login_Webpage.git"
+  },
+  "author": "Sofia Jia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sofiaJYX/Register_Login_Webpage/issues"
+  },
+  "homepage": "https://github.com/sofiaJYX/Register_Login_Webpage#readme",
+  "devDependencies": {
+    "webpack": "^5.76.1",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.11.1"
+  }
+}

@@ -1,7 +1,7 @@
 <?php
 $servername = "db.cs.dal.ca";
 $username = "yuxinj";
-$password = "w3MqztRXXKo35tUPWcSe5uTNH";
+$password = "XMCgxPVKUjPEGcxvq6xnmMYe8";
 
 try {
     $connection = new PDO("mysql:host=$servername;dbname=yuxinj", $username, $password);

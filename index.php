@@ -10,7 +10,7 @@
 <html lang="en">
 
 <head>
-  <title>CSCI2170: Lab 7</title>
+  <title>Register/Login Webpage</title>
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
